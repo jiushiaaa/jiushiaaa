@@ -20,8 +20,6 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 **已用项目完成《从姑获鸟开始》城寨风云篇第一集，并发布至小红书、抖音、B 站：全平台累计播放量 30,000+，点赞与收藏合计 300+。**
 
-<sub>传播数据截至 2026 年 9 月，由本人汇总；为跨平台累计数据。</sub>
-
 <p align="center"><a href="https://github.com/jiushiaaa/open-drama-flow"><img src="https://raw.githubusercontent.com/jiushiaaa/open-drama-flow/main/plugins/ai-drama-studio/public/assets/studio-pixel-hero.png" alt="OpenDramaFlow 机器人制片工作室" width="640" /></a></p>
 
 | 产品问题 | 我的实现 |
