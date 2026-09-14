@@ -8,7 +8,9 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 从真实业务需求出发，把 AI 能力做成可使用、可评估、可持续迭代的产品。
 
-[邮箱](mailto:443252622@qq.com) · [抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [小红书作品](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
+邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
+
+[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [小红书作品](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
 
 </div>
 
@@ -142,7 +144,8 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 ## 联系与创作
 
-- **合作 / 实习：** [443252622@qq.com](mailto:443252622@qq.com) · AI 产品经理方向，2027 届，可立即实习到岗
+- **合作 / 实习：** 443252622@qq.com · AI 产品经理方向，2027 届，可立即实习到岗
+- **手机号 & 微信号：** 15805145079
 - **飞桨社区：** [旧石. · AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
 - **抖音作品：** [《从姑获鸟开始》第一集](https://v.douyin.com/rD_OP4_kMSI/)
 - **小红书作品：** [《从姑获鸟开始》第一集](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share)
