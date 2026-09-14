@@ -4,7 +4,7 @@
 
 **AI 产品经理 · Agent 产品与工作流 · AI 视频创作**
 
-AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即实习到岗
+AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 从真实业务需求出发，把 AI 能力做成可使用、可评估、可持续迭代的产品。
 
