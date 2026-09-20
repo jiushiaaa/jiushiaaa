@@ -10,7 +10,7 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
 
-[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [小红书作品](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
+[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [B站作品](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)·[小红书主页](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note) 
 
 </div>
 
