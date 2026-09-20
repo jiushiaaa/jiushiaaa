@@ -33,7 +33,7 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 **从产品到作品：** 需求与交互设计 → 插件开发 → 实际剧集制作 → 跨平台发布与反馈。
 
-[查看源码与安装指南](https://github.com/jiushiaaa/open-drama-flow) · [中文产品介绍](https://github.com/jiushiaaa/open-drama-flow/blob/main/README_zh.md) · [抖音观看第一集](https://v.douyin.com/rD_OP4_kMSI/) · [小红书观看第一集](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share)
+[查看源码与安装指南](https://github.com/jiushiaaa/open-drama-flow) · [中文产品介绍](https://github.com/jiushiaaa/open-drama-flow/blob/main/README_zh.md) · [抖音观看第一集](https://v.douyin.com/rD_OP4_kMSI/) · [B站观看第一集](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086)
 
 [![第一集片头节选：城寨、拳台与锁链](https://raw.githubusercontent.com/jiushiaaa/open-drama-flow/main/production/publish-examples/opening-showcase.gif)](https://v.douyin.com/rD_OP4_kMSI/)
 
