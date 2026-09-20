@@ -10,7 +10,7 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
 
-[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [B站作品](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)·[小红书主页](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note) 
+[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [B站作品](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538) · [小红书主页](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note) 
 
 </div>
 
@@ -147,7 +147,6 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 - **合作 / 实习：** 443252622@qq.com · AI 产品经理方向，2027 届，可立即实习到岗
 - **手机号 & 微信号：** 15805145079
 - **飞桨社区：** [旧石. · AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
-- **抖音作品：** [《从姑获鸟开始》第一集](https://v.douyin.com/rD_OP4_kMSI/)
-- **小红书作品：** [《从姑获鸟开始》第一集](https://www.xiaohongshu.com/discovery/item/6aa5351d0000000028029cea?source=webshare&xhsshare=pc_web&xsec_token=ABrDK3KvgGOlzmvmtG_QMrbUaz73mft1F4ZsnKcv3A3k4=&xsec_source=pc_share)
+-  **小红书**[欧五花八蒙]([https://aistudio.baidu.com/personalcenter/thirdview/11368538](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note))
 
 <sub>持续分享 AI 产品实践、Agent 工作流与 OpenDramaFlow 创作过程。</sub>
