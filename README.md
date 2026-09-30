@@ -10,6 +10,48 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
 
+[抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [B站作品](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538) · [小红书主页](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note) 
+
+</div>
+
+## 代表项目 · OpenDramaFlow
+
+### 你来讲故事，Codex 来组织制作。
+
+我正在开发 **OpenDramaFlow**：面向 Windows Codex Desktop 的开源 AI 视频生产插件，把专业创作 Skills、模型调用、素材版本和本地后期整合到同一条制作流程中。用自然语言推进创作，在画布中查看素材、镜头与成片，让创意从剧本走到交付。
+
+**已用项目完成《从姑获鸟开始》城寨风云篇第一集，并发布至小红书、抖音、B 站：全平台累计播放量 30,000+，点赞与收藏合计 300+。**
+
+<p align="center"><a href="https://github.com/jiushiaaa/open-drama-flow"><img src="https://raw.githubusercontent.com/jiushiaaa/open-drama-flow/main/plugins/ai-drama-studio/public/assets/studio-pixel-hero.png" alt="OpenDramaFlow 机器人制片工作室" width="640" /></a></p>
+
+| 产品问题 | 我的实现 |
+| --- | --- |
+| 创作步骤分散，生成工具之间反复切换 | 由 Codex 组织剧本、分镜、素材生成与后期，按任务调用专业 Skills 和 MCP 工具 |
+| 角色、场景与镜头素材难以持续管理 | 项目库 + 无限画布，统一展示素材、版本、视频和制作关系 |
+| 长流程生成失败后难以接续 | 保存供应商任务 ID 与制作状态，支持恢复和局部修复，减少重复生成 |
+| 一次实验容易干扰已认可的设定 | 区分候选素材、已确认版本与生产记忆，保留人工验收环节 |
+
+**从产品到作品：** 需求与交互设计 → 插件开发 → 实际剧集制作 → 跨平台发布与反馈。
+
+[查看源码与安装指南](https://github.com/jiushiaaa/open-drama-flow) · [中文产品介绍](https://github.com/jiushiaaa/open-drama-flow/blob/main/README_zh.md) · [抖音观看第一集](https://v.douyin.com/rD_OP4_kMSI/) · [B站观看第一集](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086)
+
+[![第一集片头节选：城寨、拳台与锁链](https://raw.githubusercontent.com/jiushiaaa/open-drama-flow/main/production/publish-examples/opening-showcase.gif)](https://v.douyin.com/rD_OP4_kMSI/)
+
+<details>
+<summary>查看产品界面与制作流程</summary>
+
+![OpenDramaFlow 无限画布](https://raw.githubusercontent.com/jiushiaaa/open-drama-flow/main/docs/images/production-canvas.png)
+
+**创意 / 剧本 → 导演分镜 → 角色与场景参考 → 视频生成 → 镜头复核 → 声音、剪辑与交付**
+
+`Codex Plugin` `MCP` `Agent Skills` `React` `TypeScript` `Seedance` `FFmpeg`
+
+</details>
+
+## 关于我
+
+南京财经大学 2027 届本科生，GPA **3.61/5（前 10%）**。四段 AI 产品经理实习，覆盖 **AI 销售与经营分析、AI Coding 与办公 Agent、保险、K12 美育**。
+
 ## 关于我
 
 南京财经大学 2027 届本科生，GPA **3.61/5（前 10%）**。四段 AI 产品经理实习，覆盖 **AI 销售与经营分析、AI Coding 与办公 Agent、保险、K12 美育**。
