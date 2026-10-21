@@ -54,6 +54,8 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 ### 白柏之馆
 
+<p align="center"><a href="https://lumi.66rpg.com/works/4tapc6l0qxhc"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/white-cypress-house.png" alt="白柏之馆游戏封面" width="720" /></a></p>
+
 在陌生别墅中醒来，你看不懂这里的语言。通过观察物件、试验机关和与住客交流，逐步读懂符号；当理智动摇，同一个房间会露出另一副面貌。
 
 **陌生语言解谜 · 理智双态探索 · 人物支线 · 五种结局**
@@ -63,6 +65,8 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 [体验游戏](https://lumi.66rpg.com/works/4tapc6l0qxhc) · [开源工程](https://lumi.66rpg.com/projects/4tv0gmurmpz4)
 
 ### 请删除我的母亲
+
+<p align="center"><a href="https://lumi.66rpg.com/works/4sotmr6hcrnk"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/please-delete-my-mother.png" alt="请删除我的母亲游戏封面" width="720" /></a></p>
 
 母亲去世后的第 411 天，女儿申请删除与她有关的全部数据。你将扮演数字遗产审核员，在网页、录音与匿名档案之间追索线索，找出必须留下的六份记录。
 
