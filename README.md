@@ -2,7 +2,7 @@
 
 # 褚新磊 · Chu Xinlei
 
-**AI 产品经理 · Agent 产品与工作流 · AI 视频创作**
+**AI 产品经理 · Agent 产品与工作流 · AI 视频创作 · AI文游创作**
 
 AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
