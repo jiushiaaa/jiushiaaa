@@ -8,6 +8,8 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 从真实业务需求出发，把 AI 能力做成可使用、可评估、可持续迭代的产品。
 
+[浏览个人作品集网站](https://jiushiaaa.github.io/jiushiaaa/) · [哲学与文学 Skills](https://github.com/jiushiaaa/Philosophy-Skills)
+
 邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
 
 [抖音作品](https://v.douyin.com/rD_OP4_kMSI/) · [B站作品](https://www.bilibili.com/video/BV1WtYC6UEEN/?vd_source=e0643483c6a3517007cd0589b285add0#reply117268142886086) · [飞桨 AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538) · [小红书主页](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note) 
@@ -122,10 +124,6 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 南京财经大学 2027 届本科生，GPA **3.61/5（前 10%）**。四段 AI 产品经理实习，覆盖 **AI 销售与经营分析、AI Coding 与办公 Agent、保险、K12 美育**。
 
-## 关于我
-
-南京财经大学 2027 届本科生，GPA **3.61/5（前 10%）**。四段 AI 产品经理实习，覆盖 **AI 销售与经营分析、AI Coding 与办公 Agent、保险、K12 美育**。
-
 我关注的不只是模型能做什么，更是如何把它接入业务：通过用户研究明确问题，用 PRD 与可交互 Demo 验证方案，再通过评测、真实使用反馈和数据推动迭代。近期重点在 **Agent Harness、自然语言工作流搭建、业务评估闭环与 AI 视频生产**。
 
 ## 实习经历
@@ -167,6 +165,20 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 - **智能研学助手：** 面向 K12 美育场景，参与设计“小道新貌”，结合地图与大模型生成上海虹口文化地标研学路线、分站点任务及研学笔记框架。
 - **AI 教案工具：** 设计“五步法”教案辅助工具，结合教师模板、美育标准与优秀示例，将零散备课材料重构为包含教学目标、流程和评价维度的规范教案。
+
+## 开源探索 · 哲学与文学 Skills
+
+从文游创作中的人物思考与叙事需求出发，用 [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) 提炼思想家的分析方法，整理成可以按需调用的独立 Skills。
+
+[Philosophy-Skills](https://github.com/jiushiaaa/Philosophy-Skills) 收录 **46 个思想与文学模块：21 个自制模块 + 25 个注明来源的上游模块**。各人物保持独立，比较时保留思想分歧；合集保留原作者署名与许可。
+
+自制模块包括笛卡尔、黑格尔、海德格尔、胡塞尔、加缪、萨特、阿多诺、哈贝马斯等。适用于哲学分析、人物动机推敲和跨思想家比较。
+
+```bash
+npx skills add jiushiaaa/Philosophy-Skills
+```
+
+[查看全部模块与独立仓库](https://github.com/jiushiaaa/Philosophy-Skills) · [使用说明](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/USAGE.md) · [来源与许可](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/ATTRIBUTION.md)
 
 ## 更多项目
 
@@ -221,6 +233,6 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 - **合作 / 实习：** 443252622@qq.com · AI 产品经理方向，2027 届，可立即实习到岗
 - **手机号 & 微信号：** 15805145079
 - **飞桨社区：** [旧石. · AI Studio](https://aistudio.baidu.com/personalcenter/thirdview/11368538)
--  **小红书**[欧五花八蒙]([https://aistudio.baidu.com/personalcenter/thirdview/11368538](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note))
+- **小红书：** [欧五花八蒙](https://www.xiaohongshu.com/user/profile/663202e70000000007007b63?tab=note)
 
 <sub>持续分享 AI 产品实践、Agent 工作流与 OpenDramaFlow 创作过程。</sub>
