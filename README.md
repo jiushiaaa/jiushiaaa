@@ -54,27 +54,69 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 ### 白柏之馆
 
-<p align="center"><a href="https://lumi.66rpg.com/works/4tapc6l0qxhc"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/white-cypress-house.png" alt="白柏之馆游戏封面" width="720" /></a></p>
-
-在陌生别墅中醒来，你看不懂这里的语言。通过观察物件、试验机关和与住客交流，逐步读懂符号；当理智动摇，同一个房间会露出另一副面貌。
-
-**陌生语言解谜 · 理智双态探索 · 人物支线 · 五种结局**
-
-包含三层别墅、地下室与后花园，将语言推理、实物机关、追逐和人物故事串联起来，配有分场景音乐与开场 CG。
+<p><a href="https://lumi.66rpg.com/works/4tapc6l0qxhc"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/white-cypress-house.png" alt="白柏之馆游戏封面" width="720" /></a></p>
 
 [体验游戏](https://lumi.66rpg.com/works/4tapc6l0qxhc) · [开源工程](https://lumi.66rpg.com/projects/4tv0gmurmpz4)
 
+#### 故事梗概
+
+清晨，“你”发现自己在一张陌生的床上醒来，“你”环顾四周发现墙上刻满奇怪符号，门窗紧闭，无法人为打开，而床头放着一本残缺的字典和半杯清水。
+
+“你”需要亲手转动、拼合和试验机关，从住客的动作与物件的变化中破译这门未知语言，并跟随指引一步步探索这栋诡异建筑背后的秘密。
+
+#### 灵感来源
+
+游玩玩法的灵感来自《巴别塔圣歌》，故事背景取材自古希腊佩泰利亚金片。
+
+<details>
+<summary>剧透内容，点击展开</summary>
+
+在哈迪斯的殿堂，你左手边会看见一处泉水，<br>
+旁立着泛着白光的柏树（白柏）。<br>
+**千万不要靠近这泉水，不要饮它的水。**
+
+你将找到另一汪泉水，自记忆之湖（Mnemosyne，谟涅摩叙涅）涌出冰冷的流水；<br>
+它的守卫就站在泉前。<br>
+你要这样宣告身份：<br>
+**“我是大地与繁星天空之子，我的本源属于天穹，你们自知此事。<br>
+我干渴濒死，请快赐我来自记忆之湖的寒泉之水。”**
+
+他们便会赐你圣泉之水，<br>
+此后，你将与众英雄一同参与祭仪。
+
+</details>
+
+#### 玩法
+
+点击地面移动，点击物品观察。Tab 打开笔记，I 查看背包，Esc 暂停、保存或读取。按住 H 可以显示线索位置。
+
+推荐使用电脑和耳机。作品含恐怖画面、追逐与闪光效果，可在设置中调整声音和动态效果。
+
+#### 游戏体量
+
+作品包含多条人物支线和五种结局，200+张美术素材，1段开场CG，14首背景音乐。预计通关时长随探索方式而异。
+
+---
+
 ### 请删除我的母亲
 
-<p align="center"><a href="https://lumi.66rpg.com/works/4sotmr6hcrnk"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/please-delete-my-mother.png" alt="请删除我的母亲游戏封面" width="720" /></a></p>
-
-母亲去世后的第 411 天，女儿申请删除与她有关的全部数据。你将扮演数字遗产审核员，在网页、录音与匿名档案之间追索线索，找出必须留下的六份记录。
-
-**数字遗产 · 档案调查 · 悬疑解谜 · 互动叙事**
-
-让玩家通过查阅记录、核对信息和作出选择，逐步走近这份删除申请背后的故事。
+<p><a href="https://lumi.66rpg.com/works/4sotmr6hcrnk"><img src="https://raw.githubusercontent.com/jiushiaaa/jiushiaaa/main/assets/games/please-delete-my-mother.png" alt="请删除我的母亲游戏封面" width="720" /></a></p>
 
 [体验游戏](https://lumi.66rpg.com/works/4sotmr6hcrnk) · [开源工程](https://lumi.66rpg.com/projects/4sow16gavta8)
+
+#### 故事梗概
+
+“请删除与母亲有关的全部数据。”
+
+这份申请已经通过身份与权限核验，却被一项生前条款拦住：删除时，要留下六份记录。条款还在，关联的文件却对不上了。
+
+你是“拾光”数字遗产服务的执行审核员。查阅网页存档，搜索散落在正文里的关键词，对照照片、录音、设备与时间记录，重新找出那些被指定保留的片段。
+
+#### 玩法
+
+这是一款以仿真网页和档案检索为核心的叙事解谜游戏。你需要组合证据、核对来源，并在完成复核后执行申请。游戏内提供自动保存的便签与进度；建议开启声音或佩戴耳机。
+
+作品包含亲人离世与家庭关系相关叙事。人物、机构与事件均为虚构。
 
 ## 关于我
 
