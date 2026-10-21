@@ -8,7 +8,7 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 从真实业务需求出发，把 AI 能力做成可使用、可评估、可持续迭代的产品。
 
-[浏览个人作品集网站](https://jiushiaaa.github.io/jiushiaaa/) · [哲学与文学 Skills](https://github.com/jiushiaaa/Philosophy-Skills)
+[个人作品集](https://jiushiaaa.github.io/jiushiaaa/) 
 
 邮箱：443252622@qq.com · 手机号 & 微信号：15805145079
 
