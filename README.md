@@ -183,6 +183,20 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 - **智能财务单据处理：** 设计版面解析、字段提取、业务识别、规则校验、人工复核与归档链路。在自建票据测试集上，关键字段提取准确率 **96.7%**，单张处理时间从人工平均 **8 分钟**缩短至 **30 秒内**。
 - **金融伪证检测：** 设计大模型语义分析与小模型视觉定位的双通道检测方案；构建 **5,463 份**训练样本。项目测试中检测精度提升约 **6%**，新图像检测覆盖提升 **10%+**。
 
+###  哲学与文学 Skills
+
+从文游创作中的人物思考与叙事需求出发，用 [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) 提炼思想家的分析方法，整理成可以按需调用的独立 Skills。
+
+[Philosophy-Skills](https://github.com/jiushiaaa/Philosophy-Skills) 收录 **46 个思想与文学模块：21 个自制模块 + 25 个注明来源的上游模块**。各人物保持独立，比较时保留思想分歧；合集保留原作者署名与许可。
+
+自制模块包括笛卡尔、黑格尔、海德格尔、胡塞尔、加缪、萨特、阿多诺、哈贝马斯等。适用于哲学分析、人物动机推敲和跨思想家比较。
+
+```bash
+npx skills add jiushiaaa/Philosophy-Skills
+```
+
+[查看全部模块与独立仓库](https://github.com/jiushiaaa/Philosophy-Skills) · [使用说明](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/USAGE.md) · [来源与许可](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/ATTRIBUTION.md)
+
 <details>
 <summary>其他开源探索与社区作品</summary>
 
@@ -197,19 +211,6 @@ AI Product Manager & Builder · 南京财经大学 2027 届 · 可立即到岗
 
 </details>
 
-## 开源探索 · 哲学与文学 Skills
-
-从文游创作中的人物思考与叙事需求出发，用 [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) 提炼思想家的分析方法，整理成可以按需调用的独立 Skills。
-
-[Philosophy-Skills](https://github.com/jiushiaaa/Philosophy-Skills) 收录 **46 个思想与文学模块：21 个自制模块 + 25 个注明来源的上游模块**。各人物保持独立，比较时保留思想分歧；合集保留原作者署名与许可。
-
-自制模块包括笛卡尔、黑格尔、海德格尔、胡塞尔、加缪、萨特、阿多诺、哈贝马斯等。适用于哲学分析、人物动机推敲和跨思想家比较。
-
-```bash
-npx skills add jiushiaaa/Philosophy-Skills
-```
-
-[查看全部模块与独立仓库](https://github.com/jiushiaaa/Philosophy-Skills) · [使用说明](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/USAGE.md) · [来源与许可](https://github.com/jiushiaaa/Philosophy-Skills/blob/main/ATTRIBUTION.md)
 
 ## 能力与工具
 
